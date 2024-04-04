@@ -1,4 +1,4 @@
-algoritmo y astructura de datos
+algoritmo y estructura de datos
 curso: 1253
 año de cursada: 2024
 cuatristre: primer cuatrimestre
