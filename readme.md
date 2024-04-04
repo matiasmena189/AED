@@ -1,5 +1,6 @@
-Usuario github: matiasmena189
-Legajo: 221.002-2
-Nombre apellido: Matias Mena
-Titulo del trabajo: Trabajo #0 — "Hello, World!"
-Dudas: No transribi el enunciado y luego tampoco hipotesis.
+algoritmo y astructura de datos
+curso: 1253
+año de cursada: 2024
+cuatristre: primer cuatrimestre
+legajo: 221.002-2
+nombre y apellido: matias mena
