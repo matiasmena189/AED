@@ -3,9 +3,11 @@ Algoritmos y estructuras de datos
 Hello World
 */
 
-#include <stdio.h>
+#include <iostream>
+
+using namespace std;
 
 int main () {
-    printf ("Hola mundo algortimos y estructura de datos!\n");
+    cout<<"Trabajo #0 Algoritmo y estructura de datos";
 
 }   
